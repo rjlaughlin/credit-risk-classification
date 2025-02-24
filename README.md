@@ -15,25 +15,25 @@ Key steps in the machine learning process included:
 ## Results
 
 - Confusion Matrix:
-- - True Positive: 18658
-- - False Positive: 37
-- - False Negative: 107
-- - True Negative: 582
+    - True Positive: 18658
+    - False Positive: 37
+    - False Negative: 107
+    - True Negative: 582
 
 
 - Classification Report:
-- - Precision:
-- - - Healthy: 1.00
-- - - High-Risk Loan: 0.84
-- - Recall:
-- - - Healthy: 0.99
-- - - High-Risk Loan: 0.94
-- - F1-score:
-- - - Healthy: 1.00
-- - - High-Risk Loan: 0.89
-- - Accuracy: 0.99
-- - Macro Avg: 0.92 (Precision), 0.97 (Recall), 0.94 (F1-score)
-- - Weighted Avg: 0.99 (Precision), 0.99 (Recall), 0.99 (F1-score)
+    - Precision:
+        - Healthy: 1.00
+        - High-Risk Loan: 0.84
+    - Recall:
+        - Healthy: 0.99
+        - High-Risk Loan: 0.94
+    - F1-score:
+        - Healthy: 1.00
+        - High-Risk Loan: 0.89
+    - Accuracy: 0.99
+    - Macro Avg: 0.92 (Precision), 0.97 (Recall), 0.94 (F1-score)
+    - Weighted Avg: 0.99 (Precision), 0.99 (Recall), 0.99 (F1-score)
 
 ## Summary
 
